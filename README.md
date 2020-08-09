@@ -24,12 +24,6 @@ Depends on your linux distro
 ## To Run
 > bash steghide.sh
 
-![Example of file sharing with encryption](https://github.com/ZechBron/FileSharingTerminal/blob/master/IMG_20200807_171820.png)
-
-If you're going to look at the picture above. It's so easy to use. If you need something to share your files and encrypt it at the same time. This tool can do it for you.
-
-__Just send the download link to someone you want to share your file then he/she can have it by running this simple command__
-> wget https://example-of-downloadlink/yourfile
 
 ### What if you don't want to use this tool cause, let's say, you already know how to use steghide.
 __Note:__
